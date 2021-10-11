@@ -1,0 +1,1 @@
+ID Employee	Name	Salary	Number Sales86	Maxwell	99	099	Paty	86	123	Arturo	45	3
