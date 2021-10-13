@@ -1,0 +1,6 @@
+Ana,10
+Natalia,4
+Regina,6
+Diego,8
+Jorge,1
+Abril,1
